@@ -1,5 +1,6 @@
+
 # 💫 About Me:
-🔭I’m currently Studying Computer Science<br>⚡Aspiring software engineer <br>🎯Striving to learn new things and improve my skills. <br>🌱 I’m constantly exploring new horizons in software development.<br>
+👋Hi, I’m Bhavana Pathare<br>🔭I’m currently Studying Computer Science<br>⚡Aspiring software engineer <br>🎯Striving to learn new things and improve my skills. <br>🌱 I’m constantly exploring new horizons in software development.<br>
 
 
 ## 🌐 Socials:
@@ -20,9 +21,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BhavanaPathare&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BhavanaPathare&icon=5&color=7)](https://visitcount.itsvg.in)
